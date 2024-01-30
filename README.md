@@ -16,12 +16,16 @@
 
 ![示例](snap/Test1.jpeg)
 
+引入 Element Plus 组件
+
+![示例](snap/Test2.jpeg)
+
 ## Roadmap
 
 1. 简单支持Vue3 【已完成】
-2. 支持 element-plus 组件
+2. 支持 element-plus 组件 【已完成】
 3. 支持更多Vue3特性
-4. 升级到最新版本的Vue3
+4. 升级到最新版本的Vue3和Element Plus 【已完成】 
 
 
 ## 特色

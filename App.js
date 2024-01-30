@@ -1,5 +1,6 @@
 import { loadApp } from './js/loadVue.js'
 import { createRouter } from './js/useRouter.js'
+import { zhCn } from './libs/element-plus/locale/zh-cn.js'
 
 
 async function useApp() {
@@ -17,6 +18,10 @@ async function useApp() {
         }
     });
 
+    app.use(ElementPlus, {
+        locale: zhCn
+    });
+    
     //app.use(Vuex);
 
     app.use(router);
