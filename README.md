@@ -14,6 +14,8 @@
 
 此项目参考了[vue3-in-html](https://github.com/0611163/vue3-in-html) 作者的代码使用地图，我想对代码进行精简，更简单易懂。
 
+![示例](snap/Test1.jpeg)
+
 ## Roadmap
 
 1. 简单支持Vue3 【已完成】
